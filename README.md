@@ -3,6 +3,7 @@ Semiconductor wafer defect classification is critical for ensuring high precisio
 ![image](https://github.com/user-attachments/assets/4a101e7b-5235-4ccf-b05c-16a5c167c123)
 ## ViT Model Variants 
 | Model     | Layers | Hidden Size | Attention Heads | MLP Size | Params|  
+| :---      | :---:  | :---:       | :---:           |  :---:   |  ---: |
 | ViT-Tiny  | 12     | 192         | 3               | 768      | ~5.7M |
 | ViT-Small | 12     | 384         | 6               | 1536     | ~22M  |
 | ViT-Base  | 12     | 768         | 12              | 3072     | ~86 M |
